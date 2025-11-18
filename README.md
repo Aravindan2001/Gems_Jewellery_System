@@ -1,82 +1,159 @@
-Gems Jewellery System 💎
+# 💎 Gems Jewellery System  
+*A Complete E-commerce Web Application for Jewellery Store Management*
 
-A secure, fully functional E-commerce Web Application for Jewellery Store Management built using Java, JSP, Servlets, Tomcat, JDBC & MySQL.
+This is a secure, database-driven web application built using **Java, JSP, Servlets, JDBC, Tomcat 9**, and **MySQL**.  
+It enables customers to browse jewellery items, manage accounts, place orders, and allows admin users to manage products and customers efficiently.
 
-🚀 Features
+---
 
-User Registration & Login
+## 🚀 Features
 
-Admin & Customer Modules
+### 👤 Customer Features
+- User Registration & Login  
+- View Jewellery Products  
+- Category-based Product Filtering  
+- Search Jewellery Items  
+- Add to Cart  
+- Checkout & Order Placement  
+- Profile Management  
 
-Product Management (Add/Edit/Delete)
+### 🔑 Admin Features
+- Admin Login  
+- Add / Edit / Delete Products  
+- Manage Categories  
+- View Orders & Customers  
+- Inventory Management  
 
-Product Categories
+### ⚙ Technical Features
+- Java Servlets (Controller Layer)  
+- JSP with JSTL (View Layer)  
+- JDBC (Database Connectivity)  
+- MVC Architecture  
+- Session Handling & Authentication  
+- Input Validation  
+- Exception Handling  
+- MySQL Relational Database  
 
-Add to Cart
+---
 
-Order Management
+## 🛠️ Tech Stack
 
-Search & Filters
+| Layer | Technology |
+|-------|------------|
+| **Frontend** | HTML, CSS, JSP |
+| **Backend** | Java 17, Servlets, JDBC |
+| **Server** | Apache Tomcat 9 |
+| **Database** | MySQL (XAMPP) |
+| **IDE** | Eclipse Enterprise |
+| **Other** | MVC Structure, DAO Pattern |
 
-MVC Architecture
+---
 
-MySQL Database Connectivity
+## 📂 Project Structure
 
-Password Encryption
 
-Session Management
-
-🛠 Tech Stack
-
-Frontend: JSP, HTML, CSS, JavaScript
-Backend: Java Servlets
-Server: Apache Tomcat 9
-Database: MySQL (XAMPP)
-IDE: Eclipse Enterprise
-Version Control: Git & GitHub
-
-📁 Project Structure
 Gems_Jewellery_System/
- ├── src/
- ├── WebContent/ or webapp/
- ├── build/
- ├── .project
- ├── .classpath
+├── src/
+│ ├── controller/ # Servlet controllers
+│ ├── dao/ # Data access classes
+│ ├── model/ # POJO classes
+│ └── util/ # DB connection utilities
+│
+├── WebContent/ or webapp/
+│ ├── JSP Pages
+│ ├── CSS / JS / Images
+│ ├── WEB-INF/
+│ ├── web.xml
+│ └── lib/
+│
+├── build/
+├── .project
+├── .classpath
 
-💾 Database
 
-The SQL file is included inside the project folder.
-Import it using phpMyAdmin or MySQL shell.
 
-▶️ How to Run
 
-Import project in Eclipse
+---
 
-Configure Apache Tomcat 9
+## 🗄️ Database Information
 
-Start XAMPP (MySQL)
+**Database Name:** `gems_jewellery_db`  
+**Tables Include:**  
+- users  
+- products  
+- categories  
+- orders  
+- order_items  
+- admin  
 
-Create database and import SQL
+📌 SQL file is included inside the repository ZIP parts.
 
-Run on server
+---
 
-Local URL:
+## ▶️ How to Run the Project
+
+### **1. Import into Eclipse**
+- File → Import → Existing Projects into Workspace  
+- Select your project folder  
+- Finish
+
+### **2. Configure Tomcat**
+- Add Apache Tomcat 9  
+- Set project to run on server
+
+### **3. Setup MySQL Database**
+- Start XAMPP → MySQL  
+- Create database  
+- Import the SQL file  
+- Update DB credentials in:
+
+
+### **4. Run the Application**
+Localhost URL:
+
 
 http://localhost:8080/Gems_Jewellery_System/
+---
 
-🌐 Live Demo (via Ngrok)
+## 🌐 Live Demo (Ngrok)
 
-Use during presentation/viva:
+During viva or presentation, run:
 
-https://your-ngrok-url/Gems_Jewellery_System/
 
-🔒 Security
+Demo URL becomes:
 
-This repository is PRIVATE.
-Only authorized users can view or download project files.
 
-👨‍💻 Author
+The panel can test the system **without seeing or downloading code**.
 
-Aravindan Saran
-Final Year IT Student (Sabaragumuwa University of Sri Lanka)
-Java Developer • Web Development • DBMS
+---
+
+## 📸 Screenshots
+
+(Add screenshots to a folder named `/screenshots`)
+
+
+---
+
+## 🔒 Project Security
+
+✔ This project repository is **PRIVATE**  
+✔ Source code **cannot be downloaded** by others  
+✔ Only demo access is shared via **ngrok**
+
+---
+
+## 👨‍💻 Author
+
+**Chandrakumar Aravinda**  
+Software Engineer | Full-Stack Developer  
+📧 aravindan.saran2001@gmail.com  
+🌍 Sri Lanka  
+
+---
+
+⭐ *Thank you for exploring the Gems Jewellery System! Reach out if you'd like to collaborate or learn more.*
+
+
+
+
+
