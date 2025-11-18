@@ -90,6 +90,88 @@ Gems_Jewellery_System/
 
 ---
 
+
+
+
+---
+
+## 📦 How to Extract the Project Files (WinRAR Required)
+
+This project is uploaded in **split ZIP format** for safe storage on GitHub.  
+To open the project, you must extract it using **WinRAR**.
+
+### 🪟 **Steps to Extract the Project Using WinRAR**
+
+1. Download **all** the following files from the repository:
+   - `Gems_Jewellery_System.zip`
+   - `Gems_Jewellery_System.z01`
+   - `Gems_Jewellery_System.z02`
+   - `Gems_Jewellery_System.z03`
+
+2. Place all four files in the **same folder**.
+
+3. Right–click **Gems_Jewellery_System.zip**  
+   → Select **Extract Here** (or Extract to "Gems_Jewellery_System/")
+
+4. WinRAR will automatically read:
+   - `.zip`
+   - `.z01`
+   - `.z02`
+   - `.z03`
+
+5. After extraction, you will get the complete folder:
+   ChatGPT said:
+
+Absolutely — I will update your README instructions so that anyone (your teacher/examiner) knows how to extract your ZIP + .z01 + .z02 + .z03 files using WinRAR.
+
+Below is the exact section you can copy & paste into your project README.
+
+✅ Add This Section to Your README (WinRAR Extraction Instructions)
+---
+
+## 📦 How to Extract the Project Files (WinRAR Required)
+
+This project is uploaded in **split ZIP format** for safe storage on GitHub.  
+To open the project, you must extract it using **WinRAR**.
+
+### 🪟 **Steps to Extract the Project Using WinRAR**
+
+1. Download **all** the following files from the repository:
+   - `Gems_Jewellery_System.zip`
+   - `Gems_Jewellery_System.z01`
+   - `Gems_Jewellery_System.z02`
+   - `Gems_Jewellery_System.z03`
+
+2. Place all four files in the **same folder**.
+
+3. Right–click **Gems_Jewellery_System.zip**  
+   → Select **Extract Here** (or Extract to "Gems_Jewellery_System/")
+
+4. WinRAR will automatically read:
+   - `.zip`
+   - `.z01`
+   - `.z02`
+   - `.z03`
+
+5. After extraction, you will get the complete folder:
+
+
+
+Gems_Jewellery_System/
+
+
+This folder contains the **full Java project**, including:
+- `src/` (Java servlets)
+- `webapp` / `WebContent`
+- `build/`
+- `.project`
+- `.classpath`
+
+⚠️ **Important:**  
+Trying to extract `.z01` or `.z02` alone will give an error.  
+Always extract **only the `.zip` file**, with all parts present in the same directory.
+
+---
 ## ▶️ How to Run the Project
 
 ### **1. Import into Eclipse**
