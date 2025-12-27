@@ -1,7 +1,7 @@
 # 💎 Gems Jewellery System
 *A Complete E-commerce Web Application for Jewellery Store Management*
 
-![Hero Banner](screenshots/hero-banner.jpg)
+![Hero Banner](screenshots/hero-banner.png)
 
 Secure, database-driven web application built with **Java, JSP, Servlets, JDBC, Tomcat 9**, and **MySQL**. Enables customers to browse jewellery items, manage accounts, place orders, and provides comprehensive admin management.
 
