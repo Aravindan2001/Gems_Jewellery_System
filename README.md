@@ -50,11 +50,11 @@ Secure, database-driven web application built with **Java, JSP, Servlets, JDBC, 
 ### Customer Interface
 | Home Page | Product Listing | Shopping Cart |
 |-----------|-----------------|---------------|
-| ![Home](screenshots/home.png) | ![Products](screenshots/products.png) | ![Cart](screenshots/cart.png) |
+| ![Home](screenshots/home.jpeg) | ![Products](screenshots/products.jpeg) | ![Cart](screenshots/cart.jpeg) |
 
 | Checkout | User Profile |
 |----------|--------------|
-| ![Checkout](screenshots/checkout.png) | ![Profile](screenshots/profile.png) |
+| ![Checkout](screenshots/checkout.jpeg) | ![Profile](screenshots/profile.jpeg) |
 
 ### Admin Dashboard
 | Dashboard | Product Management | Order Management |
