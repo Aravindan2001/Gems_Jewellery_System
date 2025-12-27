@@ -59,7 +59,7 @@ Secure, database-driven web application built with **Java, JSP, Servlets, JDBC, 
 ### Admin Dashboard
 | Dashboard | Product Management | Order Management |
 |-----------|--------------------|------------------|
-| ![Dashboard](screenshots/admin-dashboard.png) | ![Products](screenshots/admin-products.png) | ![Orders](screenshots/admin-orders.png) |
+| ![Dashboard](screenshots/admin-dashboard.jpeg) | ![Products](screenshots/admin-products.jpeg) | ![Orders](screenshots/admin-orders.jpeg) |
 
 ## 📂 Project Structure
 Gems_Jewellery_System/
